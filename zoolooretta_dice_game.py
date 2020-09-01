@@ -1,4 +1,5 @@
-
+#Final Project for CompSci 110 (intro Python) at Hamilton College
+#Zoolooretta Dice Game for 2-4 Players
 
 #Check to see if bonuses have been claimed
 BONUS_RED = 0
