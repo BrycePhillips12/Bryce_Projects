@@ -1,3 +1,10 @@
+#Code written by Bryce Phillips Spring Semester 2020 for Thesis Project
+#done under the supervision of Gordon Jones and Brian Collett
+#Code is designed to import existing datasets and apply several transformations
+#in order to see the effect of certain errors that could exist
+#All four transformations were done in same code so many things are commented
+#out depending which I was examining at the time
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
